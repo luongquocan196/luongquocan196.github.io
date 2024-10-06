@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>QuocAn &#8211; StrixHaven</title>
+	<atom:link href="https://luongquocan196.github.io/author/quocan/feed/" rel="self" type="application/rss+xml" />
+	<link>https://luongquocan196.github.io/</link>
+	<description>School of Mages</description>
+	<lastBuildDate>Sun, 06 Oct 2024 09:58:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://luongquocan196.github.io/wp-content/uploads/2024/10/strixhaven-creast-200by200-150x150.png</url>
+	<title>QuocAn &#8211; StrixHaven</title>
+	<link>https://luongquocan196.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>On self-worth, an advice from Dean Shaile</title>
+		<link>https://luongquocan196.github.io/on-self-worth-an-advice-from-dean-shaile/</link>
+					<comments>https://luongquocan196.github.io/on-self-worth-an-advice-from-dean-shaile/#respond</comments>
+		
+		<dc:creator><![CDATA[QuocAn]]></dc:creator>
+		<pubDate>Sun, 06 Oct 2024 09:58:30 +0000</pubDate>
+				<category><![CDATA[Silverquill]]></category>
+		<guid isPermaLink="false">https://luongquocan196.github.io/?p=86</guid>
+
+					<description><![CDATA[In life, surely, we would have to face failure and criticism. We, as sentient beings, are built to care about how we are being perceived by those around us; and when we fail them, or when we receive criticism from them, we will naturally develop a feeling that we are<a class="moretag" href="https://luongquocan196.github.io/on-self-worth-an-advice-from-dean-shaile/"> Read more&#8230;</a>]]></description>
+										<content:encoded><![CDATA[
+<p>In life, surely, we would have to face failure and criticism. We, as sentient beings, are built to care about how we are being perceived by those around us; and when we fail them, or when we receive criticism from them, we will naturally develop a feeling that we are inadequate, that we might be rejected and abandoned. So, receiving criticism will naturally trigger your stress response which may have negative effect on your mental health. Dealing with criticism is not about not caring what anyone else thinks of you but about understanding your self-worth, learning from feedback while still maintaining the things that matter the most to you.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://luongquocan196.github.io/on-self-worth-an-advice-from-dean-shaile/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Professor Osgir&#8217;s guide to celtic ruin</title>
+		<link>https://luongquocan196.github.io/professor-osgirs-guide-to-celtic-ruin/</link>
+					<comments>https://luongquocan196.github.io/professor-osgirs-guide-to-celtic-ruin/#respond</comments>
+		
+		<dc:creator><![CDATA[QuocAn]]></dc:creator>
+		<pubDate>Sat, 05 Oct 2024 03:59:11 +0000</pubDate>
+				<category><![CDATA[Lorehold]]></category>
+		<guid isPermaLink="false">https://luongquocan196.github.io/?p=40</guid>
+
+					<description><![CDATA[Ruins is an ancient language used to invoke]]></description>
+										<content:encoded><![CDATA[
+<p>Ruins is an ancient language used to invoke</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://luongquocan196.github.io/professor-osgirs-guide-to-celtic-ruin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
