@@ -12,7 +12,7 @@
 	<atom:link href="https://luongquocan196.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://luongquocan196.github.io/</link>
 	<description>School of Mages</description>
-	<lastBuildDate>Sat, 30 Nov 2024 04:03:17 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 30 Nov 2024 05:00:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -34,16 +34,20 @@
 		
 		<dc:creator><![CDATA[QuocAn]]></dc:creator>
 		<pubDate>Sat, 30 Nov 2024 04:03:16 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Lorehold]]></category>
 		<guid isPermaLink="false">https://luongquocan196.github.io/?p=147</guid>
 
-					<description><![CDATA[Kinh dịch]]></description>
+					<description><![CDATA[Càn Khôn xoay chuyển mà kéo theo thế giới vận hành. Các triều đại thịnh rồi suy, người đến rồi đi, vật có rồi mất. Tất cả đều vận động và chuyển đổi. Đó chính là Dịch. Alibou, Ancient Witness Kinh Dịch &#8220;Dịch&#8221; nghĩa là dịch chuyển, biến đổi. &#8220;Kinh [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2 class="wp-block-heading">Kinh dịch</h2>
+<figure class="wp-block-pullquote"><blockquote><p><em>Càn Khôn xoay chuyển mà kéo theo thế giới vận hành. Các triều đại thịnh rồi suy, người đến rồi đi, vật có rồi mất. Tất cả đều vận động và chuyển đổi. Đó chính là Dịch.</em></p><cite>Alibou, Ancient Witness</cite></blockquote></figure>
 
 
 
-<p></p>
+<h2 class="wp-block-heading">Kinh Dịch</h2>
+
+
+
+<p>&#8220;Dịch&#8221; nghĩa là dịch chuyển, biến đổi. &#8220;Kinh Dịch&#8221; là sách nói về sự vận hành và biến đổi của sự vật hiện tượng. </p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://luongquocan196.github.io/gioi-thieu-ve-kinh-dich-the-i-ching/feed/</wfw:commentRss>
