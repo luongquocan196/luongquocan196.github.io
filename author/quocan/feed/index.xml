@@ -12,13 +12,13 @@
 	<atom:link href="https://luongquocan196.github.io/author/quocan/feed/" rel="self" type="application/rss+xml" />
 	<link>https://luongquocan196.github.io/</link>
 	<description>School of Mages</description>
-	<lastBuildDate>Sun, 06 Oct 2024 09:58:31 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 30 Nov 2024 04:03:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
 	<url>https://luongquocan196.github.io/wp-content/uploads/2024/10/strixhaven-creast-200by200-150x150.png</url>
@@ -28,6 +28,30 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Giới thiệu về Kinh Dịch &#8211; The I Ching</title>
+		<link>https://luongquocan196.github.io/gioi-thieu-ve-kinh-dich-the-i-ching/</link>
+					<comments>https://luongquocan196.github.io/gioi-thieu-ve-kinh-dich-the-i-ching/#respond</comments>
+		
+		<dc:creator><![CDATA[QuocAn]]></dc:creator>
+		<pubDate>Sat, 30 Nov 2024 04:03:16 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://luongquocan196.github.io/?p=147</guid>
+
+					<description><![CDATA[Kinh dịch]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Kinh dịch</h2>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://luongquocan196.github.io/gioi-thieu-ve-kinh-dich-the-i-ching/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>On self-worth, an advice from Dean Shaile</title>
 		<link>https://luongquocan196.github.io/on-self-worth-an-advice-from-dean-shaile/</link>
 					<comments>https://luongquocan196.github.io/on-self-worth-an-advice-from-dean-shaile/#respond</comments>
