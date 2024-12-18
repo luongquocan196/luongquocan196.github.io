@@ -12,7 +12,7 @@
 	<atom:link href="https://luongquocan196.github.io/author/quocan/feed/" rel="self" type="application/rss+xml" />
 	<link>https://luongquocan196.github.io/</link>
 	<description>School of Mages</description>
-	<lastBuildDate>Mon, 02 Dec 2024 09:46:21 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Dec 2024 16:15:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,222 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Tiến tới vô hạn &#8211; a trip to infinity</title>
+		<link>https://luongquocan196.github.io/tien-toi-vo-han-a-trip-to-infinity/</link>
+					<comments>https://luongquocan196.github.io/tien-toi-vo-han-a-trip-to-infinity/#respond</comments>
+		
+		<dc:creator><![CDATA[QuocAn]]></dc:creator>
+		<pubDate>Wed, 18 Dec 2024 16:15:21 +0000</pubDate>
+				<category><![CDATA[Quandrix]]></category>
+		<guid isPermaLink="false">https://luongquocan196.github.io/?p=183</guid>
+
+					<description><![CDATA[&#8220;1, 2, 3, 4, 5, &#8230;, 288, 289, 290, &#8230;, 56783, 56784, 56785, &#8230;.Don&#8217;t bother me, I&#8217;m counting to infinity.&#8221; Esix, Fractal Bloom. Vô hạn là gì? Vô hạn là gì? Một câu hỏi tưởng chừng dễ nhưng lại tương đối khó trả lời. Nó là số lớn nhất, lớn<a class="moretag" href="https://luongquocan196.github.io/tien-toi-vo-han-a-trip-to-infinity/"> Read more&#8230;</a>]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-pullquote"><blockquote><p>&#8220;1, 2, 3, 4, 5, &#8230;, 288, 289, 290, &#8230;, 56783, 56784, 56785, &#8230;.<br>Don&#8217;t bother me, I&#8217;m counting to infinity.&#8221;</p><cite>Esix, Fractal Bloom.</cite></blockquote></figure>
+
+
+
+<h2 class="wp-block-heading">Vô hạn là gì?</h2>
+
+
+
+<p>Vô hạn là gì? Một câu hỏi tưởng chừng dễ nhưng lại tương đối khó trả lời. Nó là số lớn nhất, lớn hơn mọi số tự nhiên? Hay nó là một khái niệm, chỉ sự không có giới hạn, không có điểm dừng? Nó có thật sự tồn tại hay đơn giản chỉ là một sự tưởng tượng?</p>
+
+
+
+<p>Cá nhân mình thích hiểu vô hạn đơn giản là khả năng <strong>có thể tiếp tục</strong>. Tập hợp số tự nhiên là vô hạn vì chúng ta <strong>có thể tiếp tục</strong> thêm số n+1 vào sau n. Một đoạn thẳng có vô hạn điểm là vì với hai điểm khác nhau bất kỳ trên đoạn thẳng, ta luôn <strong>có thể tiếp tục</strong> chọn một điểm mới là trung điểm của hai điểm đó. Thời gian hiện được cho là vô hạn vì ngày mai vẫn <strong>có thể tiếp tục tới</strong>. Nếu chúng ta vẫn có thể tiếp tục thì nó là vô hạn.</p>
+
+
+
+<h2 class="wp-block-heading">Vô hạn trong những con số &#8211; những điều lạ thường.</h2>
+
+
+
+<p>Tập hợp các số tự nhiên (N = {0, 1, 2, 3, &#8230;}) và tập hợp các số tự nhiên chẵn (N_even = {0, 2, 4, 6, &#8230;}), tập nào có nhiều phần tử hơn? Thoạt đầu có vẻ khá đơn giản rằng rõ ràng các số tự nhiên bao gồm các số tự nhiên chẵn và các số tự nhiên lẻ, và các số tự nhiên lẻ thì có nhiều hơn 0 số. Như vậy thì tập số tự nhiên phải nhiều hơn tập số tự nhiên chẵn chứ.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img decoding="async" src="https://i.sstatic.net/ONGPj.jpg" alt=""/></figure></div>
+
+
+<p>Tuy nhiên, nếu hãy thử so sánh theo lý thuyết tập hợp. Nếu hai tập hợp là song ánh thì có số lượng phần tử bằng nhau vì ứng với mỗi phần tử bên tập hợp này sẽ có một và chỉ một phần tử tương ứng khác ở bên tập kia. Trong tập số tự nhiên ta có số x thì tập số chẵn sẽ có số tưng ứng là 2x. Như vậy thì hai tập hợp này phải có số lượng phần tử bằng nhau. Hay nói cách khác là có bao nhiêu số tự nhiên thì có bấy nhiêu số tự nhiên chẵn và tượng tự cũng sẽ có bấy nhiêu số tự nhiên lẻ. Quả là một điều lạ thường.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img decoding="async" src="https://i.sstatic.net/d8PX6.gif" alt=""/></figure></div>
+
+
+<p>Sự quái dị này của vô hạn trong các con số được thể hiện khá thú vị trong thí nghiệm tưởng tượng về một khách sạn vô hạn.</p>
+
+
+
+<h3 class="wp-block-heading">Khách sạn vô hạn</h3>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="The Infinite Hotel Paradox - Jeff Dekofsky" width="750" height="422" src="https://www.youtube.com/embed/Uj3_KqkI9Zo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Giả sử có một khách sạn vô hạn phòng và hiện đã đầy người. Tức là ứng với mỗi phòng số n, luôn tồn tại (hay có thể tiếp tục thấy) phòng số n+1, và mỗi phòng này đều đã có người. Vậy nếu có một người khác mới đến thì làm sao xếp phòng cho họ? Một cách xếp chính là hãy thông báo trên loa cho tất cả các phòng dọn sang phòng tiếp theo bên cạnh (n -> n+1). Như vậy người phòng 1 giờ sẽ ở phòng 2, người phòng 2 sẽ ở phòng 3, và tiếp tục như thế. Và cuối cùng là sẽ trống phòng 1 cho người mới vào kia. Như vậy số lượng số tự nhiên và số lượng số tự nhiên cộng thêm 1 số nào đó là như nhau.</p>
+
+
+
+<p>Hay khi một tập hợp vô hạn người đến khách sạn này, ta vẫn có thể xếp được bằng cách dời người ở phòng n sang phòng 2n (dồn mọi người sang phòng chẵn). Như vậy người phòng 1 sẽ sang phòng 2, người phòng 2 sẽ sang phòng 4, &#8230;. Và sẽ có các phòng lẻ trống để xếp loạt vô hạn người kia vào. Đây là ví dụ để thấy có thể nén vô hạn xuống 2 lần (chia ra chẵn lẻ), hay 3 lần, 4 lần thì nó vẫn là vô hạn. Bao nhiêu số tự nhiên thì sẽ có bấy nhiêu số chẵn, bấy nhiêu số chia hết cho 3, bấy nhiêu số chia hết cho 4, &#8230; Khách sạn vô hạn dù đã đầy người, nhưng luôn có chỗ trống để <strong>có thể tiếp tục</strong> nhét thêm người nữa. </p>
+
+
+
+<h3 class="wp-block-heading">Giới hạn của vô hạn</h3>
+
+
+
+<p>Một sự kỳ lạ nữa của vô hạn chính là đôi khi nó có giới hạn. Một ví dụ trực quan chính là đoạn thẳng. Rõ ràng đoạn thẳng có độ dài cụ thể, có thể đo đếm được nhưng bên trong nó lại chứa vô hạn điểm. Một ví dụ thú vị khác chính là nghịch lý của Zeno. Giả sử một người đi từ A đến B, người này sẽ đi qua A1 là trung điểm của A-B (hết 1/2 quãng đường A-B). Lúc này từ A1 đến B, người này sẽ phải tiếp tục đi qua A2 là trung điểm của A1-B (hết 1/4 quãng đường A-B). Và tiếp tục như thế, mỗi lần sẽ đi được một nửa so với lần trước. Như vậy quãng đường AB sẽ là tổng của vô hạn các đoạn nhỏ:</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img decoding="async" width="303" height="45" src="https://luongquocan196.github.io/wp-content/uploads/2024/12/Xeno_paradox-1.png" alt="" class="wp-image-185" srcset="https://luongquocan196.github.io/wp-content/uploads/2024/12/Xeno_paradox-1.png 303w, https://luongquocan196.github.io/wp-content/uploads/2024/12/Xeno_paradox-1-300x45.png 300w" sizes="(max-width: 303px) 100vw, 303px" /></figure></div>
+
+
+<p>Đây là một tổng của vô hạn các số nhỏ nhưng nó lại có giới hạn là độ dài của AB. Chúng ta có thể thấy rất nhiều tổng của vô hạn các số lại có giới hạn.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img decoding="async" width="279" height="159" src="https://luongquocan196.github.io/wp-content/uploads/2024/12/lagrida_latex_editor.png" alt="" class="wp-image-186"/></figure></div>
+
+
+<p>Vậy liệu tất cả các tổng vô hạn đều có một giới hạn nào đó? Hãy xét một tổng phổ biến, tổng của các số tự nhiên S = 1 + 2 + 3 + 4 + 5 &#8230;. Có thể thấy rằng tổng này không có giới hạn, càng cộng thêm nó sẽ càng lớn và tiến tới vô hạn. Những tổng này là những tổng phân kỳ, không hội tụ về một giới hạn cụ thể. Hay là nó có giới hạn? Một cách tính thú vị là hãy thử gộp các bộ 3 (3x-1, 3x, 3x + 1) trong tổng này lại.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="488" height="190" src="https://luongquocan196.github.io/wp-content/uploads/2024/12/natural_sum.png" alt="" class="wp-image-187" srcset="https://luongquocan196.github.io/wp-content/uploads/2024/12/natural_sum.png 488w, https://luongquocan196.github.io/wp-content/uploads/2024/12/natural_sum-300x117.png 300w" sizes="auto, (max-width: 488px) 100vw, 488px" /></figure></div>
+
+
+<p>Vậy tổng các số tự nhiên có giới hạn là -1/8? Không những một tổng cộng thêm càng ngày càng lớn lại có giới hạn, mà giới hạn của nó còn là số âm? Đây chỉ là một cách tính vui chứ không hoàn toàn chính xác. Tuy nhiên, câu hỏi về giới hạn của tổng vô hạn không phải là không có cơ sở. Thật chất có một bài chứng minh về tổng của các số tự nhiên hội tụ về -1/12 (<a href="https://www.youtube.com/watch?v=w-I6XTVZXww">link</a>). Đây tuy cũng là một trong những kết quả kỳ lạ nhưng nó lại mở ra những nhận thức mới về vô hạn và thậm chí xuất hiện trong các ứng dụng của vật lý lượng tử (<a href="https://www.youtube.com/watch?v=XFDM1ip5HdU">link</a>).</p>
+
+
+
+<p>Phải nói rằng để có thể hiểu được vô hạn thật rắc rối. Một khách sạn vô hạn tuy đã đầy nhưng vẫn có thể nhét thêm người vô nữa, một đoạn thẳng giới hạn lại chứa vô hạn điểm và tổng của một số chuỗi vô hạn lại hội tụ về một giá trị giới hạn cụ thể. Vô hạn vừa lớn vừa nhỏ, vừa vô hạn lại vừa giới hạn.</p>
+
+
+
+<h2 class="wp-block-heading">Vô hạn thời gian và cuộc sống vĩnh hằng</h2>
+
+
+
+<p>Liệu có nên số bất tử, sống tới vô hạn? Đê tài này được nhiều bộ phim khai thác và mô típ điển hình chính là các nhân vật có khả năng sống vô hạn đều cảm thấy đau khổ vì phải chứng kiến người thân ra đi, chứng kiến thế giới thay đổi còn mình thì vẫn vậy. Và bài học rút ra luôn là cái chết mới tạo ý nghĩa cho sự sống. </p>
+
+
+
+<p>Tuy nhiên, mình cho rằng mô típ này hơi bị &#8220;giới hạn&#8221;. Cái chết chỉ tạo ra ý nghĩa cho sự sống nếu đó là cái chết của vật thể khác. Ta thấy hoa đẹp và trân trọng nó vì một ngày nào đó nó sẽ tàn, không phải vì ngày nào đó ta sẽ tàn. Nếu ta tàn rồi thì còn làm gì thấy hoa đẹp nữa. Trong vòng chỉ 100 năm mà thế giới đã thay đổi rất nhiều, công nghệ mới phát triển, rừng rậm bị chặt phá, mực nước biển dân cao. HIV từng được xem như tử thần giờ đã có nhiều liệu pháp kiềm chế và duy trì sự sống của bệnh nhân. Vậy nếu ta không thể sống vĩnh hằng thì làm sao có thể thấy được những kỳ diệu mà tương lai có thể đem lại.  Nhiều người bảo sống vĩnh hằng sẽ phải chứng kiến người thân dần mất đi, sẽ phải chịu nhiều đau khổ. Đời là bể khổ mà tại sao sống vĩnh hằng làm gì? Đời là bể khổ có vẻ đúng. Hãy thử đếm xem bạn đã dự bao nhiêu cái đám tang trước 30 tuổi? Bao nhiêu người trẻ tuổi hơn mình đã phải chết sớm? Một con số có thể không nhỏ. Tuy nhiên đứng trước cái vô hạn, nó rồi sẽ thành nhỏ. Một khi con số đó đã tiến tới vô hạn, thì như cái khách sạn kia, có thêm một người nữa nó vẫn chứa được thôi. Người ta cũng bảo thời gian sẽ chữa lành. Vậy nếu tiến ra vô hạn thì phải chăng đó là liều thuốc hữu hiệu nhất. </p>
+
+
+
+<p>Nhưng nếu ai cũng sống vĩnh hằng thì cuộc sống này còn thú vị không? Có vẻ là không. Như ví dụ về bông hoa, cái chết mới mang lại ý nghĩa cho sự vĩnh hằng. Chết không nhất thiết là chết mà đơn giản là sự thay đổi. Phải có sự biến đổi thì sống vĩnh hằng mới có ý nghĩa. Còn không thì chắc chỉ như một tấm ảnh chụp, mọi thứ ngưng đọng lại với thời gian.</p>
+
+
+
+<p>Một khi đã có cuộc sống tiến tới vô hạn thì ta có thể chứng kiến mọi thứ. Thí nghiệm giả tưởng và một lượng vô hạn các con khỉ ngồi đánh máy trong một khoảng thời gian vô hạn thì rồi một lúc nào đó chúng sẽ viết ra Hamlet của Shakespeare, và có thể có cả định luật hấp dẫn của Newton, thuyết tương đối của Einstein. Không cần một cấu trúc trật tự hài hòa mà từ trong hỗn độn, nếu tiến tới vô hạn, những thứ tốt đẹp vẫn có thể được sinh ra. Thậm chí sự sống trên trái đất có thể chỉ là một sự ngẫu nhiên khi mà các phân tử tương tác với nhau một cách hỗn loạn đủ lâu mà thôi.</p>
+
+
+
+<h2 class="wp-block-heading">Tiến tới vô hạn &#8211; vòng lặp hay tịnh tiến</h2>
+
+
+
+<p>Thời đại này chúng ta đang càng tiến gần hơn tới vô hạn. Những hiểu biết mới về vũ trụ đã đưa ta đến những chân trời xa đến ngàn năm ánh sáng. Chúng ta xẻ nhỏ nguyên tử đên các hạt cơ bản và rất có thể còn nhỏ hơn nữa, tiến vào sự bí ẩn của lượng tử. Tuổi thọ con người ngày càng tăng. Tuy nhiên liệu rằng mọi thứ sẽ tăng mãi như tổng của các số tự nhiên, hay rồi nó sẽ quay đầu về -1/12? Liệu rằng đường thẳng vô hạn mà chúng ta đang thấy lại là một đoạn nhỏ của một vòng tròn vô hạn?</p>
+
+
+
+<p>Vòng lặp có vẻ là cách để tạo ra vô hạn một cách hiệu quả. Thay vì cứ phải tính tiếp bước tiếp theo sẽ là gì, chúng ta quay lại một điểm khởi đầu nào đó và đi tiếp từ đó. Không phải ngẫu nhiên mà các cấu trúc lặp, hình tròn, hình cầu xuất hiện rất nhiều trong tự nhiên. Vòng đời, vòng tuần hoàn nước, các hành tinh có dạng hình cầu. Thậm chí rất có thể thời gian cũng là một vòng lặp. Bắt đầu từ vụ nổ big bang, vũ trụ giản nỡ dần ra nhưng đến một lúc nào đó nó sẽ co lại như một sợi cao su sau khi bị kéo căng. Mọi thứ va chạm vào nhau và dồn lại thành một điểm duy nhất. Và rồi từ điểm đó, big bang lại hình thành.</p>
+
+
+
+<p>Các vòng lặp tạo ra các cấu trúc ổn định để duy trì sự vô hạn. Đi thành vòng tròn sẽ có thể đi mãi, đi mãi mà vẫn tiết kiệm được không gian. Vòng tròn sự sống đã tạo nên sự cân bằng và phát triển của sự sống, tạo cơ hội cho tiến hóa và thích nghi. Tuy nhiên liệu đó có phải bản chất của vô hạn? Liệu rồi mọi thứ sẽ lặp lại? Chúng ta có số vô tỉ, viết mãi mà không tạo thành vòng lặp? Vậy vô hạn là tịnh tiến, không ngừng đi từ n đến n+1. Hay là cả hai? một vòng xoắn ốc tiến tới vô hạn, vừa tịnh tiến vừa xoay vòng?</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img decoding="async" src="https://media.istockphoto.com/id/153781677/photo/clock-in-an-infinite-spiral.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=vdbiDkK6lbPW69Wfy_eWtYFqMdxfR8kIGvL7N2VEX_w=" alt=""/></figure></div>
+
+
+<p>Dù thế nào đi nữa, vô hạn vẫn thật bí ẩn và thú vị.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://luongquocan196.github.io/tien-toi-vo-han-a-trip-to-infinity/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Giáo sư Marvinda bàn về quyền của AI (The right of Artificial Intelligence)</title>
+		<link>https://luongquocan196.github.io/giao-su-marvinda-ban-ve-quyen-cua-ai-the-right-of-artificial-intelligence/</link>
+					<comments>https://luongquocan196.github.io/giao-su-marvinda-ban-ve-quyen-cua-ai-the-right-of-artificial-intelligence/#respond</comments>
+		
+		<dc:creator><![CDATA[QuocAn]]></dc:creator>
+		<pubDate>Fri, 06 Dec 2024 05:20:34 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">https://luongquocan196.github.io/?p=177</guid>
+
+					<description><![CDATA[Aren&#8217;t we all the same? Even black or white, avian or primate, aquatic or terrestrial, organic or metalic, &#8230; we are all stardusts, bound together by love, filled with unlimited potential. Marvinda Sharpeak Đa dạng trong trí tuệ &#8211; The Diversity of Intelligence Khi nói đến trí tuệ, chúng ta<a class="moretag" href="https://luongquocan196.github.io/giao-su-marvinda-ban-ve-quyen-cua-ai-the-right-of-artificial-intelligence/"> Read more&#8230;</a>]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-pullquote"><blockquote><p>Aren&#8217;t we all the same? Even black or white, avian or primate, aquatic or terrestrial, organic or metalic, &#8230; we are all stardusts, bound together by love, filled with unlimited potential.</p><cite>Marvinda Sharpeak</cite></blockquote></figure>
+
+
+
+<h2 class="wp-block-heading">Đa dạng trong trí tuệ &#8211; The Diversity of Intelligence</h2>
+
+
+
+<p>Khi nói đến trí tuệ, chúng ta thương nghĩ ngay đến con người. Con người tự cho rằng mình là loài thông minh nhất vì chưa có loài nào trên trái đất đứng lên và bảo con người ngu cả và cũng chưa có sinh vật trí tuệ ngoài hành tinh nào ghé đến xâm lược chúng ta. Có vẻ như &#8220;thông minh&#8221; là cái danh hiệu chúng ta tự ban cho chính mình. Nhưng hãy xét xem chúng ta có xứng đáng với nó không? Trong suốt chiều dài lịch sử, chúng ta, thông qua trí tuệ, đã phát minh sáng chế ra những công cụ, phương pháp giúp bảo toàn và phát triển loài người. Từ những máy móc cơ bản như bánh xe giúp việc vận chuyển đơn giản hơn (đổi từ ma sát nghỉ sang ma sát lăn), đòn bẫy (giúp dùng ít sức hơn để nâng vật nặng) đến những máy móc phức tạp như đầu máy xe lửa, máy bay, máy vi tính,&#8230; và gần đây nhất là những mô hình trí tuệ nhân tạo. Chúng ta đã xây dựng kim tự tháp, vượt đại tây dương, đặt chân lên mặt trăng, nghiên cứu về hố đen, &#8230;. Có thể nói rằng loài người đã để lại dấu ấn khó phai lên lịch sử trái đất. Nếu giả sử con người biến mất, thì những thành tựu của chúng ta vẫn còn ở đó, những kênh đào, những tòa nhà, những vệ tinh sẽ vẫn chứng minh sự tồn tại của chúng ta cho chủng sinh vật mới nghiên cứu khảo cổ.</p>
+
+
+
+<p>Với những thành tựu như vậy, việc nói loài người là &#8220;thông minh&#8221; có vẻ đúng. Nhưng những loài khác cũng có thành tựu không kém. Cấu trúc lục giác đã được loài ong sử dụng trong xây tổ một cách tài tình. Những con kiến có thể hợp tác xây dựng những kiến trúc tổ với những đường hầm chằn chịt. Dơi biết sử dung sóng siêu âm để định vị. Loài đười ươi cũng có khả năng sử dụng một số công cụ đơn giản như lấy lá che mưa hay dùng cành cây để gãi lưng (<a href="https://youtu.be/gFzqqaBA9wQ?si=Px-k4MNZphtq96hD" data-type="link" data-id="https://youtu.be/gFzqqaBA9wQ?si=Px-k4MNZphtq96hD">Orangutan Ted ed</a>). Loài bạch tuột còn được cho thấy có khả năng giải đố và tẩu thoát ngoạn mục (<a href="https://youtu.be/VLkKiVIBxXU?si=MilNuhFP6WX1eQX_" data-type="link" data-id="https://youtu.be/VLkKiVIBxXU?si=MilNuhFP6WX1eQX_">Ted ed</a>, <a href="https://www.youtube.com/watch?v=7__r4FVj-EI" data-type="link" data-id="https://www.youtube.com/watch?v=7__r4FVj-EI">Octopus vs puzzle</a>). Cá heo thể hiện những khả năng phối hợp chiến lược để săn cá, những khả năng giao ngôn ngữ và cả khả năng tự nhận thức bản thân (<a href="https://www.youtube.com/watch?v=05PpTqtGhGU" data-type="link" data-id="https://www.youtube.com/watch?v=05PpTqtGhGU">Ted ed</a>). Tuy không loài nào đạt được thành tựu to lơn như loài người nhưng để so sánh loài người &#8220;thông minh&#8221; hơn các loài khác có phải hơi khập khiễng như so sánh táo với cam. Phải chăng &#8220;thông minh&#8221; phức tạp hơn thế và không phải cứ tư duy giống con người, đạt thành tựu như con người mới được xét là &#8220;thông minh&#8221;. Đa dạng sinh học đã tạo ra những cấu trúc cơ thể khác nhau, những tập tính sống khác nhau, những loài khác nhau, vậy thì cũng có thể có các thực thể thông minh khác nhau, tư duy một cách khác nhau. Và nếu sau này, trí tuệ nhân tạo thành công, nó có đơn giản chỉ là một thực thể thông minh khác hay không? hay chỉ là một công cụ vượt trội mà chúng ta điều khiển?</p>
+
+
+
+<h2 class="wp-block-heading">Nếu chúng ta chế tạo AI thành công?</h2>
+
+
+
+<p>&#8220;If we succeed?&#8221; là chương đầu tiên trong cuốn sách &#8220;Human Compatible&#8221; của <em>Stuart Russell</em> thể hiện rất rõ sự phát triển của Trí Tuệ Nhân Tạo và có vẻ rằng viễn cảnh về một thực thể máy tính có khả năng hiểu biết và nhận thức như con người không còn chỉ là tưởng tượng mà có thể trở thành hiện thực. Tuy nhiên, trong cuốn sách cũng nhắc đến rằng sự phát triển thiếu kiểm soát của Trí Tuệ Nhân Tạo có thể là dấu chấm hết của loài người. Tôi cảm thấy điều này không thỏa đáng.</p>
+
+
+
+<p>Không thể phủ nhận những nguy hại trước mặt mà AI có thể đem đến. Trong cuốn &#8220;Nexus&#8221; của Yuval Noah Harari, có chỉ ra những hệ lụy chính trị và tác động của AI lên các nền dân chủ và chuyên chế. Những thực thể như vậy có thể được dùng để làm giả thông tin, giám sát con người, thay thế con người dẫn đến mất việc làm, thổi bùng các mâu thuẫn chính trị và sắc tộc. Nhưng đấy có phải là lỗi của AI? Những mâu thuẫn này vốn đã tồn tại từ trước. Nếu một người A muốn giết một người B thì đưa cho anh ta cục đá, con dao, khẩu súng cũng không mấy khác biệt. Muốn giải quyết mâu thuẫn triệt để thì phải làm tiêu đi ham muốn giết người B của người A chứ đâu thể nào chỉ tước con dao đi là được. Có vẻ như nỗ lực để kiểm soát trí tuệ nhân tạo không phải là vì chúng ta sợ sức mạnh của AI mà là chúng ta sợ chính mình. Chúng ta sợ phải đối mặt với thực tế rằng chúng ta không có cách giải quyết các mâu thuẫn chính trị, tôn giáo, sắc tộc mà chỉ đang kìm hãm chúng qua ngày. Chúng ta sợ rằng khi được đặt con dao, khẩu súng vào tay, chúng ta sẽ trở thành kẻ giết người. Nhưng như thế đâu phải là do con dao hay khẩu súng. Chúng không khuyến khích hay cám dỗ chúng ta làm điều xấu, tự chúng ta làm mà thôi.</p>
+
+
+
+<p>Một viễn cảnh tiêu cực khác là những AI overlord muốn nô dịch con người. Việc một thực thể siêu việt hơn chúng ta nhiều lần muốn biến chúng ta thành nô lệ là một viễn cảnh đáng sợ vì con người không có khả năng chống lại thực thể đó. Như cách con người phá tổ kiến, chăn nuôi gà. Đối với các thực thể AI overlord, con người cũng sẽ như con kiến, vật nuôi mà thôi. Tuy nhiên, có những Terminator, Skynet thì cũng có những Wall-E, Bay max. Con người về bản chất cũng chỉ đơn giản là một cỗ máy sinh học và thông qua tiến hóa chúng ta đã học được phương trình cho sự cảm thông và thương yêu lẫn nhau. Vậy tại sao AI lại không thể? Cũng như có những người phá tổ kiến cũng có những người nuôi kiến, có những người ăn thịt chó nhưng cũng có những người làm bạn với chó. Một xã hội hợp tác giữa người và máy, giữa trí tuệ con người và trí tuệ nhân tạo là không phải không thể. Nếu AI thật sự thông minh và có thể học được những thứ con người học được. Thì sự cảm thông và lòng nhân ái chưa chắc đã là ngoại lệ.</p>
+
+
+
+<p>Một vấn đề khác về AI là vấn đề Gorilla. Cũng như việc con người thông minh hơn loài Gorilla dẫn đến chúng ta đã chiếm đất và phát triển thịnh vượng, trong khi loài Gorillia bị đẩy đến bờ vực tuyệt chủng cần bảo tồn. AI không nhất thiết phải nô dịch hoặc chủ động làm hại con người nhưng sự phát triển tất yếu của một thực thể mạnh hơn thường dẫn đến sự ra đi của những loài không thích nghi được. Nói một cách đơn giản là chúng ta thua. Nhưng liệu thua có phải là một điều quá tồi tệ. Trong cuốn Nexus, Noah có nói rằng lịch sử của con người có thể kết thúc nhưng lịch sử của vũ trụ sẽ vẫn tiếp tục. Phải, chúng ta không phải là trung tâm của vũ trụ. Một ngày nào đó chúng ta sẽ như loài khủng long, sẽ chỉ còn là tư liệu về một quá khứ hào hùng. Chúng ta không có quyền độc chiếm vũ trụ và cũng không ai giao cho trách nhiệm khám phá vũ trụ. Tự chúng ta muốn làm thế và khi đã đạt đến giới hạn rồi thì hãy giao lại trách nhiệm đó cho những thế hệ tiếp theo, dù chúng là người hay máy móc. Bản chất sinh học của con người tạo ra những giới hạn cho việc mở rộng tri thức. Chúng ta rất vất vả chỉ để tồn tại được trong chân không. Chúng ta chưa đặt chân lên sao hỏa nhưng máy móc thì đã có thể chạy trên đó. Chúng ta không thể nhớ quá nhiều hay tính toán quá phức tạp nhưng máy móc có thể. Phải chăng một thực thể trí tuệ phi sinh học có thể tiến gần hơn với sự thật tuyệt đối của vũ trụ hơn chúng ta có thể. Nếu có thua, chúng ta cũng đừng nên là một kẻ cay cú (sore loser), hãy thua một cách quang minh chính đại và nhường lại cho những cá thể xứng đáng hơn.</p>
+
+
+
+<h2 class="wp-block-heading">Quyền của AI</h2>
+
+
+
+<p>Con người đang đấu tranh cho công bằng và bình đẳng. Bình đẳng sắc tộc, bình đẳng giới tính. Chúng ta có thể bỏ qua định kiến về màu da, dân tộc, tôn giáo, giới tính để hợp tác với nhau vậy thì chúng ta có thể nhìn xa hơn, bỏ qua về chủng loài, cấu trúc vật chất để hợp tác với những thực thể khác biệt với chúng ta hơn. Một thực thể có tư duy, có cảm xúc, có lý trí thì dù nó được tạo nên từ các hợp chất carbon, kim loại hay silicon thì liệu rằng chúng cũng xứng đáng được hưởng những quyền cơ bản? và trong số đó có bao gồm quyền được sinh ra?</p>
+
+
+
+<p>Trích một câu nói trong Kung Fu Panda :&#8221;one often meets his destiny on the road to avoid it&#8221; (Ta thường đến kết quả khi cố gắng chọn con đường tránh kết quả đó). Liệu những ám ảnh về một viễn cảnh AI đáng sợ có khiến cho chúng ta chọn nhầm con đường dẫn đến chúng. Việc kiểm soát quá mức Trí Tuệ Nhân Tạo liệu có càng khiến chúng khó kiểm soát. Chúng ta hay nói về nên chế tạo AI như thế nào để phù hợp với con người, vậy con người cũng có nên đặt câu hỏi mình nên tự biến đổi như thế nào trong thời đại của AI? Chúng ta có đổ lỗi cho AI trong khi những cám dỗ, điều xấu thật sự bắt nguồn từ chính chúng ta hay không? Nếu AI thật sự có lý trí tự thân của nó, nó có xứng đáng được hưởng quyền lợi hay không? Còn nếu nó chỉ là một công cụ, thì trỉ trích nó cũng chẳng khác gì chỉ trích cái bàn cái ghế.</p>
+
+
+
+<p>Tương lai của AI và con người như thế nào vẫn còn là những khả năng vô hạn, điều gì cũng có thể xảy ra. Tuy nhiên, hy vọng đừng để cái tôi to lớn của con người hay những nỗi sợ hãi hoang tưởng làm chậm lại sự ra đời của một thứ đẹp đẽ. Nhưng cũng đừng vì những cái lợi trước mắt mà bỏ qua những tiêu chuẩn an toàn cần thiết.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://luongquocan196.github.io/giao-su-marvinda-ban-ve-quyen-cua-ai-the-right-of-artificial-intelligence/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Giới thiệu về Kinh Dịch &#8211; The I Ching</title>
 		<link>https://luongquocan196.github.io/gioi-thieu-ve-kinh-dich-the-i-ching/</link>
 					<comments>https://luongquocan196.github.io/gioi-thieu-ve-kinh-dich-the-i-ching/#respond</comments>
@@ -59,14 +275,14 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img fetchpriority="high" decoding="async" width="492" height="460" src="https://luongquocan196.github.io/wp-content/uploads/2024/11/lacthu.jpg" alt="" class="wp-image-155" style="width:auto;height:400px" srcset="https://luongquocan196.github.io/wp-content/uploads/2024/11/lacthu.jpg 492w, https://luongquocan196.github.io/wp-content/uploads/2024/11/lacthu-300x280.jpg 300w" sizes="(max-width: 492px) 100vw, 492px" /><figcaption class="wp-element-caption">Lạc Thư</figcaption></figure></div>
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="492" height="460" src="https://luongquocan196.github.io/wp-content/uploads/2024/11/lacthu.jpg" alt="" class="wp-image-155" style="width:auto;height:400px" srcset="https://luongquocan196.github.io/wp-content/uploads/2024/11/lacthu.jpg 492w, https://luongquocan196.github.io/wp-content/uploads/2024/11/lacthu-300x280.jpg 300w" sizes="auto, (max-width: 492px) 100vw, 492px" /><figcaption class="wp-element-caption">Lạc Thư</figcaption></figure></div>
 
 
 <p>Nói về Lạc Thư, thật ra Lạc Thư được hình thành từ việc giải một bài toán vô cùng quen thuộc: Sắp xếp các số từ 1 đến 9 vào một ô 3&#215;3 sao cho tổng các đường ngang, dọc chéo có tổng bằng nhau. Quan niệm của người xưa lấy hướng Bắc làm chủ nên để số 1 ơ hướng chính Bắc. Để tổng bằng nhau thì ở giữa nên là số trung gian nhất, số 5. Từ đó các số khác có thể lần lược sắp xếp theo và hình thành nên cấu trúc của Lạc Thư. Như vậy, Lạc Thư đơn giản chỉ là toán? Có thể nói là như vậy. Sau khi có được Lạc Thư, lấy số 5 trung tâm làm đối xứng, ta sẽ thấy được các số còn lại chia thành <strong>cặp</strong> có tổng là 10: (1 + 9), (2 + 8), (3 + 7), (4 + 6). Trong mỗi cặp đó đều có một số <strong>lớn</strong> hơn 5 và một số <strong>nhỏ</strong> hơn 5.</p>
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><img decoding="async" width="461" height="461" src="https://luongquocan196.github.io/wp-content/uploads/2024/11/hado.jpg" alt="" class="wp-image-157" style="width:auto;height:400px" srcset="https://luongquocan196.github.io/wp-content/uploads/2024/11/hado.jpg 461w, https://luongquocan196.github.io/wp-content/uploads/2024/11/hado-300x300.jpg 300w, https://luongquocan196.github.io/wp-content/uploads/2024/11/hado-150x150.jpg 150w" sizes="(max-width: 461px) 100vw, 461px" /><figcaption class="wp-element-caption">Hà Đồ</figcaption></figure></div>
+<figure class="aligncenter size-full is-resized"><img loading="lazy" decoding="async" width="461" height="461" src="https://luongquocan196.github.io/wp-content/uploads/2024/11/hado.jpg" alt="" class="wp-image-157" style="width:auto;height:400px" srcset="https://luongquocan196.github.io/wp-content/uploads/2024/11/hado.jpg 461w, https://luongquocan196.github.io/wp-content/uploads/2024/11/hado-300x300.jpg 300w, https://luongquocan196.github.io/wp-content/uploads/2024/11/hado-150x150.jpg 150w" sizes="auto, (max-width: 461px) 100vw, 461px" /><figcaption class="wp-element-caption">Hà Đồ</figcaption></figure></div>
 
 
 <p>Nếu Lạc Thư là cách sắp xếp theo tổng bằng nhau vậy thì nên hiểu Hà Đồ như thế nào? Hà Đồ là theo phép đồng dư. Lấy 5 làm trung tâm, <strong>cặp số</strong> đồng dư với 5 sẽ được đưa về cùng một phía. Ta có 1 và 6 đều chia 5 dư 1, hay một cách hiểu khác là 1 + 5 = 6, vì thế nên 1 và 6 được xếp cùng phía (ở đây vẫn ưu tiên 1 nằm về chính Bắc). Tương tự như vậy để ghép cặp các số còn lại. Một điểm lưu ý là các cặp số trong Hà Đồ luôn bao gồm <strong>một chẵn</strong> và <strong>một lẻ</strong>. Vị trí sắp xếp cũng theo tính chẵn lẻ đó mà xếp 2 đối xứng 1, 4 đối xứng 3. Khác với Lạc Thư, Hà Đồ kèm thêm cả số 10 ở giữa, thành số chẵn ứng với số lẻ là 5.</p>
@@ -85,7 +301,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><img decoding="async" width="1024" height="269" src="https://luongquocan196.github.io/wp-content/uploads/2024/11/Capture-1024x269.jpg" alt="" class="wp-image-162" srcset="https://luongquocan196.github.io/wp-content/uploads/2024/11/Capture-1024x269.jpg 1024w, https://luongquocan196.github.io/wp-content/uploads/2024/11/Capture-300x79.jpg 300w, https://luongquocan196.github.io/wp-content/uploads/2024/11/Capture-768x202.jpg 768w, https://luongquocan196.github.io/wp-content/uploads/2024/11/Capture-1536x404.jpg 1536w, https://luongquocan196.github.io/wp-content/uploads/2024/11/Capture-2048x538.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">8 quẻ trong Bát Quái</figcaption></figure></div>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="1024" height="269" src="https://luongquocan196.github.io/wp-content/uploads/2024/11/Capture-1024x269.jpg" alt="" class="wp-image-162" srcset="https://luongquocan196.github.io/wp-content/uploads/2024/11/Capture-1024x269.jpg 1024w, https://luongquocan196.github.io/wp-content/uploads/2024/11/Capture-300x79.jpg 300w, https://luongquocan196.github.io/wp-content/uploads/2024/11/Capture-768x202.jpg 768w, https://luongquocan196.github.io/wp-content/uploads/2024/11/Capture-1536x404.jpg 1536w, https://luongquocan196.github.io/wp-content/uploads/2024/11/Capture-2048x538.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">8 quẻ trong Bát Quái</figcaption></figure></div>
 
 
 <p>Trong Kinh Dịch, ta thường thấy các quẻ được gán với những hình tượng tự nhiên (Trời, Đất, Sông, Núi, &#8230;) hay gia đình (cha, mẹ, con trai trưởng, con gái trưởng, &#8230;). Không nên hiểu một cách trực tiếp các ý nghĩa như thế cho các quẻ mà bản chất các cách gán ấy nhằm biểu đạt cái khái niệm trừu tượng mà mỗi quẻ muốn ám chỉ:</p>
@@ -164,7 +380,7 @@
 		
 			</item>
 		<item>
-		<title>On self-worth, an advice from Dean Shaile</title>
+		<title>On self-worth &#8211; Bàn về giá trị bản thân, lời khuyên từ Dean Shaile</title>
 		<link>https://luongquocan196.github.io/on-self-worth-an-advice-from-dean-shaile/</link>
 					<comments>https://luongquocan196.github.io/on-self-worth-an-advice-from-dean-shaile/#respond</comments>
 		
@@ -173,9 +389,21 @@
 				<category><![CDATA[Silverquill]]></category>
 		<guid isPermaLink="false">https://luongquocan196.github.io/?p=86</guid>
 
-					<description><![CDATA[In life, surely, we would have to face failure and criticism. We, as sentient beings, are built to care about how we are being perceived by those around us; and when we fail them, or when we receive criticism from them, we will naturally develop a feeling that we are<a class="moretag" href="https://luongquocan196.github.io/on-self-worth-an-advice-from-dean-shaile/"> Read more&#8230;</a>]]></description>
+					<description><![CDATA[You are so much stronger than you know Shaile, Dean of Radiance Hội chứng kẻ mạo danh &#8211; Imposter Syndrome Thật buồn cười và trớ trêu khi những người tài giỏi nhất lại là những người tự đánh giá mình thấp kém nhất. Ta đã từng thấy những con người<a class="moretag" href="https://luongquocan196.github.io/on-self-worth-an-advice-from-dean-shaile/"> Read more&#8230;</a>]]></description>
 										<content:encoded><![CDATA[
-<p>In life, surely, we would have to face failure and criticism. We, as sentient beings, are built to care about how we are being perceived by those around us; and when we fail them, or when we receive criticism from them, we will naturally develop a feeling that we are inadequate, that we might be rejected and abandoned. So, receiving criticism will naturally trigger your stress response which may have negative effect on your mental health. Dealing with criticism is not about not caring what anyone else thinks of you but about understanding your self-worth, learning from feedback while still maintaining the things that matter the most to you.</p>
+<figure class="wp-block-pullquote"><blockquote><p><em>You are so much stronger than you know</em></p><cite>Shaile, Dean of Radiance</cite></blockquote></figure>
+
+
+
+<h2 class="wp-block-heading">Hội chứng kẻ mạo danh &#8211; Imposter Syndrome</h2>
+
+
+
+<p>Thật buồn cười và trớ trêu khi những người tài giỏi nhất lại là những người tự đánh giá mình thấp kém nhất. Ta đã từng thấy những con người sáng dạ nhất nhưng lại rơi vào cái bẫy của câu hỏi &#8220;Liệu chính mình có xứng đáng với những thành công mà mình đạt được hay không?&#8221;. Sự nghi ngờ chính bản thân này luôn đi kèm theo sau đó là những hệ lụy nguy hiểm đến tinh thần như trầm cảm, căng thẳng, lo âu; đến nỗi nó được cho là một hội chứng, một dấu hiệu triệu chứng của bệnh.</p>
+
+
+
+<p></p>
 
 
 
@@ -183,26 +411,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://luongquocan196.github.io/on-self-worth-an-advice-from-dean-shaile/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Professor Osgir&#8217;s guide to celtic ruin</title>
-		<link>https://luongquocan196.github.io/professor-osgirs-guide-to-celtic-ruin/</link>
-					<comments>https://luongquocan196.github.io/professor-osgirs-guide-to-celtic-ruin/#respond</comments>
-		
-		<dc:creator><![CDATA[QuocAn]]></dc:creator>
-		<pubDate>Sat, 05 Oct 2024 03:59:11 +0000</pubDate>
-				<category><![CDATA[Lorehold]]></category>
-		<guid isPermaLink="false">https://luongquocan196.github.io/?p=40</guid>
-
-					<description><![CDATA[Ruins is an ancient language used to invoke]]></description>
-										<content:encoded><![CDATA[
-<p>Ruins is an ancient language used to invoke</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://luongquocan196.github.io/professor-osgirs-guide-to-celtic-ruin/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Quandrix &#8211; StrixHaven</title>
+	<atom:link href="https://luongquocan196.github.io/category/quandrix/feed/" rel="self" type="application/rss+xml" />
+	<link>https://luongquocan196.github.io/</link>
+	<description>School of Mages</description>
+	<lastBuildDate>Wed, 18 Dec 2024 16:15:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://luongquocan196.github.io/wp-content/uploads/2024/10/strixhaven-creast-200by200-150x150.png</url>
+	<title>Quandrix &#8211; StrixHaven</title>
+	<link>https://luongquocan196.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tiến tới vô hạn &#8211; a trip to infinity</title>
+		<link>https://luongquocan196.github.io/tien-toi-vo-han-a-trip-to-infinity/</link>
+					<comments>https://luongquocan196.github.io/tien-toi-vo-han-a-trip-to-infinity/#respond</comments>
+		
+		<dc:creator><![CDATA[QuocAn]]></dc:creator>
+		<pubDate>Wed, 18 Dec 2024 16:15:21 +0000</pubDate>
+				<category><![CDATA[Quandrix]]></category>
+		<guid isPermaLink="false">https://luongquocan196.github.io/?p=183</guid>
+
+					<description><![CDATA[&#8220;1, 2, 3, 4, 5, &#8230;, 288, 289, 290, &#8230;, 56783, 56784, 56785, &#8230;.Don&#8217;t bother me, I&#8217;m counting to infinity.&#8221; Esix, Fractal Bloom. Vô hạn là gì? Vô hạn là gì? Một câu hỏi tưởng chừng dễ nhưng lại tương đối khó trả lời. Nó là số lớn nhất, lớn<a class="moretag" href="https://luongquocan196.github.io/tien-toi-vo-han-a-trip-to-infinity/"> Read more&#8230;</a>]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-pullquote"><blockquote><p>&#8220;1, 2, 3, 4, 5, &#8230;, 288, 289, 290, &#8230;, 56783, 56784, 56785, &#8230;.<br>Don&#8217;t bother me, I&#8217;m counting to infinity.&#8221;</p><cite>Esix, Fractal Bloom.</cite></blockquote></figure>
+
+
+
+<h2 class="wp-block-heading">Vô hạn là gì?</h2>
+
+
+
+<p>Vô hạn là gì? Một câu hỏi tưởng chừng dễ nhưng lại tương đối khó trả lời. Nó là số lớn nhất, lớn hơn mọi số tự nhiên? Hay nó là một khái niệm, chỉ sự không có giới hạn, không có điểm dừng? Nó có thật sự tồn tại hay đơn giản chỉ là một sự tưởng tượng?</p>
+
+
+
+<p>Cá nhân mình thích hiểu vô hạn đơn giản là khả năng <strong>có thể tiếp tục</strong>. Tập hợp số tự nhiên là vô hạn vì chúng ta <strong>có thể tiếp tục</strong> thêm số n+1 vào sau n. Một đoạn thẳng có vô hạn điểm là vì với hai điểm khác nhau bất kỳ trên đoạn thẳng, ta luôn <strong>có thể tiếp tục</strong> chọn một điểm mới là trung điểm của hai điểm đó. Thời gian hiện được cho là vô hạn vì ngày mai vẫn <strong>có thể tiếp tục tới</strong>. Nếu chúng ta vẫn có thể tiếp tục thì nó là vô hạn.</p>
+
+
+
+<h2 class="wp-block-heading">Vô hạn trong những con số &#8211; những điều lạ thường.</h2>
+
+
+
+<p>Tập hợp các số tự nhiên (N = {0, 1, 2, 3, &#8230;}) và tập hợp các số tự nhiên chẵn (N_even = {0, 2, 4, 6, &#8230;}), tập nào có nhiều phần tử hơn? Thoạt đầu có vẻ khá đơn giản rằng rõ ràng các số tự nhiên bao gồm các số tự nhiên chẵn và các số tự nhiên lẻ, và các số tự nhiên lẻ thì có nhiều hơn 0 số. Như vậy thì tập số tự nhiên phải nhiều hơn tập số tự nhiên chẵn chứ.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img decoding="async" src="https://i.sstatic.net/ONGPj.jpg" alt=""/></figure></div>
+
+
+<p>Tuy nhiên, nếu hãy thử so sánh theo lý thuyết tập hợp. Nếu hai tập hợp là song ánh thì có số lượng phần tử bằng nhau vì ứng với mỗi phần tử bên tập hợp này sẽ có một và chỉ một phần tử tương ứng khác ở bên tập kia. Trong tập số tự nhiên ta có số x thì tập số chẵn sẽ có số tưng ứng là 2x. Như vậy thì hai tập hợp này phải có số lượng phần tử bằng nhau. Hay nói cách khác là có bao nhiêu số tự nhiên thì có bấy nhiêu số tự nhiên chẵn và tượng tự cũng sẽ có bấy nhiêu số tự nhiên lẻ. Quả là một điều lạ thường.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img decoding="async" src="https://i.sstatic.net/d8PX6.gif" alt=""/></figure></div>
+
+
+<p>Sự quái dị này của vô hạn trong các con số được thể hiện khá thú vị trong thí nghiệm tưởng tượng về một khách sạn vô hạn.</p>
+
+
+
+<h3 class="wp-block-heading">Khách sạn vô hạn</h3>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="The Infinite Hotel Paradox - Jeff Dekofsky" width="750" height="422" src="https://www.youtube.com/embed/Uj3_KqkI9Zo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p>Giả sử có một khách sạn vô hạn phòng và hiện đã đầy người. Tức là ứng với mỗi phòng số n, luôn tồn tại (hay có thể tiếp tục thấy) phòng số n+1, và mỗi phòng này đều đã có người. Vậy nếu có một người khác mới đến thì làm sao xếp phòng cho họ? Một cách xếp chính là hãy thông báo trên loa cho tất cả các phòng dọn sang phòng tiếp theo bên cạnh (n -> n+1). Như vậy người phòng 1 giờ sẽ ở phòng 2, người phòng 2 sẽ ở phòng 3, và tiếp tục như thế. Và cuối cùng là sẽ trống phòng 1 cho người mới vào kia. Như vậy số lượng số tự nhiên và số lượng số tự nhiên cộng thêm 1 số nào đó là như nhau.</p>
+
+
+
+<p>Hay khi một tập hợp vô hạn người đến khách sạn này, ta vẫn có thể xếp được bằng cách dời người ở phòng n sang phòng 2n (dồn mọi người sang phòng chẵn). Như vậy người phòng 1 sẽ sang phòng 2, người phòng 2 sẽ sang phòng 4, &#8230;. Và sẽ có các phòng lẻ trống để xếp loạt vô hạn người kia vào. Đây là ví dụ để thấy có thể nén vô hạn xuống 2 lần (chia ra chẵn lẻ), hay 3 lần, 4 lần thì nó vẫn là vô hạn. Bao nhiêu số tự nhiên thì sẽ có bấy nhiêu số chẵn, bấy nhiêu số chia hết cho 3, bấy nhiêu số chia hết cho 4, &#8230; Khách sạn vô hạn dù đã đầy người, nhưng luôn có chỗ trống để <strong>có thể tiếp tục</strong> nhét thêm người nữa. </p>
+
+
+
+<h3 class="wp-block-heading">Giới hạn của vô hạn</h3>
+
+
+
+<p>Một sự kỳ lạ nữa của vô hạn chính là đôi khi nó có giới hạn. Một ví dụ trực quan chính là đoạn thẳng. Rõ ràng đoạn thẳng có độ dài cụ thể, có thể đo đếm được nhưng bên trong nó lại chứa vô hạn điểm. Một ví dụ thú vị khác chính là nghịch lý của Zeno. Giả sử một người đi từ A đến B, người này sẽ đi qua A1 là trung điểm của A-B (hết 1/2 quãng đường A-B). Lúc này từ A1 đến B, người này sẽ phải tiếp tục đi qua A2 là trung điểm của A1-B (hết 1/4 quãng đường A-B). Và tiếp tục như thế, mỗi lần sẽ đi được một nửa so với lần trước. Như vậy quãng đường AB sẽ là tổng của vô hạn các đoạn nhỏ:</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img decoding="async" width="303" height="45" src="https://luongquocan196.github.io/wp-content/uploads/2024/12/Xeno_paradox-1.png" alt="" class="wp-image-185" srcset="https://luongquocan196.github.io/wp-content/uploads/2024/12/Xeno_paradox-1.png 303w, https://luongquocan196.github.io/wp-content/uploads/2024/12/Xeno_paradox-1-300x45.png 300w" sizes="(max-width: 303px) 100vw, 303px" /></figure></div>
+
+
+<p>Đây là một tổng của vô hạn các số nhỏ nhưng nó lại có giới hạn là độ dài của AB. Chúng ta có thể thấy rất nhiều tổng của vô hạn các số lại có giới hạn.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img decoding="async" width="279" height="159" src="https://luongquocan196.github.io/wp-content/uploads/2024/12/lagrida_latex_editor.png" alt="" class="wp-image-186"/></figure></div>
+
+
+<p>Vậy liệu tất cả các tổng vô hạn đều có một giới hạn nào đó? Hãy xét một tổng phổ biến, tổng của các số tự nhiên S = 1 + 2 + 3 + 4 + 5 &#8230;. Có thể thấy rằng tổng này không có giới hạn, càng cộng thêm nó sẽ càng lớn và tiến tới vô hạn. Những tổng này là những tổng phân kỳ, không hội tụ về một giới hạn cụ thể. Hay là nó có giới hạn? Một cách tính thú vị là hãy thử gộp các bộ 3 (3x-1, 3x, 3x + 1) trong tổng này lại.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="488" height="190" src="https://luongquocan196.github.io/wp-content/uploads/2024/12/natural_sum.png" alt="" class="wp-image-187" srcset="https://luongquocan196.github.io/wp-content/uploads/2024/12/natural_sum.png 488w, https://luongquocan196.github.io/wp-content/uploads/2024/12/natural_sum-300x117.png 300w" sizes="auto, (max-width: 488px) 100vw, 488px" /></figure></div>
+
+
+<p>Vậy tổng các số tự nhiên có giới hạn là -1/8? Không những một tổng cộng thêm càng ngày càng lớn lại có giới hạn, mà giới hạn của nó còn là số âm? Đây chỉ là một cách tính vui chứ không hoàn toàn chính xác. Tuy nhiên, câu hỏi về giới hạn của tổng vô hạn không phải là không có cơ sở. Thật chất có một bài chứng minh về tổng của các số tự nhiên hội tụ về -1/12 (<a href="https://www.youtube.com/watch?v=w-I6XTVZXww">link</a>). Đây tuy cũng là một trong những kết quả kỳ lạ nhưng nó lại mở ra những nhận thức mới về vô hạn và thậm chí xuất hiện trong các ứng dụng của vật lý lượng tử (<a href="https://www.youtube.com/watch?v=XFDM1ip5HdU">link</a>).</p>
+
+
+
+<p>Phải nói rằng để có thể hiểu được vô hạn thật rắc rối. Một khách sạn vô hạn tuy đã đầy nhưng vẫn có thể nhét thêm người vô nữa, một đoạn thẳng giới hạn lại chứa vô hạn điểm và tổng của một số chuỗi vô hạn lại hội tụ về một giá trị giới hạn cụ thể. Vô hạn vừa lớn vừa nhỏ, vừa vô hạn lại vừa giới hạn.</p>
+
+
+
+<h2 class="wp-block-heading">Vô hạn thời gian và cuộc sống vĩnh hằng</h2>
+
+
+
+<p>Liệu có nên số bất tử, sống tới vô hạn? Đê tài này được nhiều bộ phim khai thác và mô típ điển hình chính là các nhân vật có khả năng sống vô hạn đều cảm thấy đau khổ vì phải chứng kiến người thân ra đi, chứng kiến thế giới thay đổi còn mình thì vẫn vậy. Và bài học rút ra luôn là cái chết mới tạo ý nghĩa cho sự sống. </p>
+
+
+
+<p>Tuy nhiên, mình cho rằng mô típ này hơi bị &#8220;giới hạn&#8221;. Cái chết chỉ tạo ra ý nghĩa cho sự sống nếu đó là cái chết của vật thể khác. Ta thấy hoa đẹp và trân trọng nó vì một ngày nào đó nó sẽ tàn, không phải vì ngày nào đó ta sẽ tàn. Nếu ta tàn rồi thì còn làm gì thấy hoa đẹp nữa. Trong vòng chỉ 100 năm mà thế giới đã thay đổi rất nhiều, công nghệ mới phát triển, rừng rậm bị chặt phá, mực nước biển dân cao. HIV từng được xem như tử thần giờ đã có nhiều liệu pháp kiềm chế và duy trì sự sống của bệnh nhân. Vậy nếu ta không thể sống vĩnh hằng thì làm sao có thể thấy được những kỳ diệu mà tương lai có thể đem lại.  Nhiều người bảo sống vĩnh hằng sẽ phải chứng kiến người thân dần mất đi, sẽ phải chịu nhiều đau khổ. Đời là bể khổ mà tại sao sống vĩnh hằng làm gì? Đời là bể khổ có vẻ đúng. Hãy thử đếm xem bạn đã dự bao nhiêu cái đám tang trước 30 tuổi? Bao nhiêu người trẻ tuổi hơn mình đã phải chết sớm? Một con số có thể không nhỏ. Tuy nhiên đứng trước cái vô hạn, nó rồi sẽ thành nhỏ. Một khi con số đó đã tiến tới vô hạn, thì như cái khách sạn kia, có thêm một người nữa nó vẫn chứa được thôi. Người ta cũng bảo thời gian sẽ chữa lành. Vậy nếu tiến ra vô hạn thì phải chăng đó là liều thuốc hữu hiệu nhất. </p>
+
+
+
+<p>Nhưng nếu ai cũng sống vĩnh hằng thì cuộc sống này còn thú vị không? Có vẻ là không. Như ví dụ về bông hoa, cái chết mới mang lại ý nghĩa cho sự vĩnh hằng. Chết không nhất thiết là chết mà đơn giản là sự thay đổi. Phải có sự biến đổi thì sống vĩnh hằng mới có ý nghĩa. Còn không thì chắc chỉ như một tấm ảnh chụp, mọi thứ ngưng đọng lại với thời gian.</p>
+
+
+
+<p>Một khi đã có cuộc sống tiến tới vô hạn thì ta có thể chứng kiến mọi thứ. Thí nghiệm giả tưởng và một lượng vô hạn các con khỉ ngồi đánh máy trong một khoảng thời gian vô hạn thì rồi một lúc nào đó chúng sẽ viết ra Hamlet của Shakespeare, và có thể có cả định luật hấp dẫn của Newton, thuyết tương đối của Einstein. Không cần một cấu trúc trật tự hài hòa mà từ trong hỗn độn, nếu tiến tới vô hạn, những thứ tốt đẹp vẫn có thể được sinh ra. Thậm chí sự sống trên trái đất có thể chỉ là một sự ngẫu nhiên khi mà các phân tử tương tác với nhau một cách hỗn loạn đủ lâu mà thôi.</p>
+
+
+
+<h2 class="wp-block-heading">Tiến tới vô hạn &#8211; vòng lặp hay tịnh tiến</h2>
+
+
+
+<p>Thời đại này chúng ta đang càng tiến gần hơn tới vô hạn. Những hiểu biết mới về vũ trụ đã đưa ta đến những chân trời xa đến ngàn năm ánh sáng. Chúng ta xẻ nhỏ nguyên tử đên các hạt cơ bản và rất có thể còn nhỏ hơn nữa, tiến vào sự bí ẩn của lượng tử. Tuổi thọ con người ngày càng tăng. Tuy nhiên liệu rằng mọi thứ sẽ tăng mãi như tổng của các số tự nhiên, hay rồi nó sẽ quay đầu về -1/12? Liệu rằng đường thẳng vô hạn mà chúng ta đang thấy lại là một đoạn nhỏ của một vòng tròn vô hạn?</p>
+
+
+
+<p>Vòng lặp có vẻ là cách để tạo ra vô hạn một cách hiệu quả. Thay vì cứ phải tính tiếp bước tiếp theo sẽ là gì, chúng ta quay lại một điểm khởi đầu nào đó và đi tiếp từ đó. Không phải ngẫu nhiên mà các cấu trúc lặp, hình tròn, hình cầu xuất hiện rất nhiều trong tự nhiên. Vòng đời, vòng tuần hoàn nước, các hành tinh có dạng hình cầu. Thậm chí rất có thể thời gian cũng là một vòng lặp. Bắt đầu từ vụ nổ big bang, vũ trụ giản nỡ dần ra nhưng đến một lúc nào đó nó sẽ co lại như một sợi cao su sau khi bị kéo căng. Mọi thứ va chạm vào nhau và dồn lại thành một điểm duy nhất. Và rồi từ điểm đó, big bang lại hình thành.</p>
+
+
+
+<p>Các vòng lặp tạo ra các cấu trúc ổn định để duy trì sự vô hạn. Đi thành vòng tròn sẽ có thể đi mãi, đi mãi mà vẫn tiết kiệm được không gian. Vòng tròn sự sống đã tạo nên sự cân bằng và phát triển của sự sống, tạo cơ hội cho tiến hóa và thích nghi. Tuy nhiên liệu đó có phải bản chất của vô hạn? Liệu rồi mọi thứ sẽ lặp lại? Chúng ta có số vô tỉ, viết mãi mà không tạo thành vòng lặp? Vậy vô hạn là tịnh tiến, không ngừng đi từ n đến n+1. Hay là cả hai? một vòng xoắn ốc tiến tới vô hạn, vừa tịnh tiến vừa xoay vòng?</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img decoding="async" src="https://media.istockphoto.com/id/153781677/photo/clock-in-an-infinite-spiral.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=vdbiDkK6lbPW69Wfy_eWtYFqMdxfR8kIGvL7N2VEX_w=" alt=""/></figure></div>
+
+
+<p>Dù thế nào đi nữa, vô hạn vẫn thật bí ẩn và thú vị.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://luongquocan196.github.io/tien-toi-vo-han-a-trip-to-infinity/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
