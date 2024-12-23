@@ -12,7 +12,7 @@
 	<atom:link href="https://luongquocan196.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://luongquocan196.github.io/</link>
 	<description>School of Mages</description>
-	<lastBuildDate>Wed, 18 Dec 2024 16:15:51 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Dec 2024 14:12:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -87,7 +87,7 @@
 
 
 
-<p>Giả sử có một khách sạn vô hạn phòng và hiện đã đầy người. Tức là ứng với mỗi phòng số n, luôn tồn tại (hay có thể tiếp tục thấy) phòng số n+1, và mỗi phòng này đều đã có người. Vậy nếu có một người khác mới đến thì làm sao xếp phòng cho họ? Một cách xếp chính là hãy thông báo trên loa cho tất cả các phòng dọn sang phòng tiếp theo bên cạnh (n -> n+1). Như vậy người phòng 1 giờ sẽ ở phòng 2, người phòng 2 sẽ ở phòng 3, và tiếp tục như thế. Và cuối cùng là sẽ trống phòng 1 cho người mới vào kia. Như vậy số lượng số tự nhiên và số lượng số tự nhiên cộng thêm 1 số nào đó là như nhau.</p>
+<p>Giả sử có một khách sạn vô hạn phòng và hiện đã đầy người. Tức là ứng với mỗi phòng số n, luôn tồn tại (hay có thể tiếp tục thấy) phòng số n+1, và mỗi phòng này đều đã có người. Vậy nếu có một người khác mới đến thì làm sao xếp phòng cho họ? Một cách xếp chính là hãy thông báo trên loa cho tất cả các phòng dọn sang phòng tiếp theo bên cạnh (n -&gt; n+1). Như vậy người phòng 1 giờ sẽ ở phòng 2, người phòng 2 sẽ ở phòng 3, và tiếp tục như thế. Và cuối cùng là sẽ trống phòng 1 cho người mới vào kia. Như vậy số lượng số tự nhiên và số lượng số tự nhiên cộng thêm 1 số nào đó là như nhau.</p>
 
 
 
@@ -124,7 +124,27 @@
 
 
 
-<p>Phải nói rằng để có thể hiểu được vô hạn thật rắc rối. Một khách sạn vô hạn tuy đã đầy nhưng vẫn có thể nhét thêm người vô nữa, một đoạn thẳng giới hạn lại chứa vô hạn điểm và tổng của một số chuỗi vô hạn lại hội tụ về một giá trị giới hạn cụ thể. Vô hạn vừa lớn vừa nhỏ, vừa vô hạn lại vừa giới hạn.</p>
+<h3 class="wp-block-heading">Vô hạn của vô hạn</h3>
+
+
+
+<p>Việc chuỗi vô hạn có giới hạn (hội tụ) vì bản chất việc cộng thêm càng lúc càng nhỏ và chúng ta không nhắm tới cái vô hạn mà chúng ta tưởng tượng, chỉ là việc cộng là vô hạn mà thôi. Vậy quay lại với vô hạn như một khái niệm chỉ một chân trời xa tắp, một nơi không có điểm dừng, một con số siêu lớn thì sao? Thật thú vị là bên ngoài của biên giới đó vẫn có thể có những thứ khác nữa, những thứ nằm ngoài vô hạn.</p>
+
+
+
+<p>Như trong ví dụ về khách sạng vô hạn, có vẻ như vô hạn cũng chỉ là giới hạn chung cho mọi tập vô hạn. Tập các số tự nhiên, tập các số chẵn, tập các số chia hết cho 3, &#8230; thậm chí là tập các số hữu tỉ đều có cùng số lượng phần tử, vô hạn. Tuy nhiên tập số thực lại không như thế. Tập số thực có nhiều số phần tử hơn tập số tự nhiên, dù rằng tập số tự nhiên đã có đến tận vô hạn phần tử. Ta thấy có thể liệt kê tập số chẵn theo một chuỗi và từ đó nó song ánh với tập số tự nhiên. Nhưng còn đối với tập số thực, dù liệt kê nhiều bao nhiêu đi chăng nữa vẫn có thể tìm ra một số mới khác với những số đã liệt kê.</p>
+
+
+
+<p>Có thể thấy vô hạn không chỉ là một giới hạn duy nhất. Bên ngoài nó còn có những cấp độ vô hạn khác nữa, vô hạn của những vô hạn.</p>
+
+
+
+<h3 class="wp-block-heading">Vô hạn thật rắc rối</h3>
+
+
+
+<p>Phải nói rằng để có thể hiểu được vô hạn thật rắc rối. Một khách sạn vô hạn tuy đã đầy nhưng vẫn có thể nhét thêm người vô nữa, một đoạn thẳng giới hạn lại chứa vô hạn điểm và tổng của một số chuỗi vô hạn lại hội tụ về một giá trị giới hạn cụ thể. Một tập vô hạn phần tử lại có thể có tập khác có nhiều phần tử hơn nó. Vô hạn vừa lớn vừa nhỏ, vừa vô hạn lại vừa giới hạn.</p>
 
 
 
