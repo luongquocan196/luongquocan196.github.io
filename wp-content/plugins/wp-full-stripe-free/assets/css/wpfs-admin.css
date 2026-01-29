@@ -1,8 +1,8 @@
 @font-face {
   font-family: "wpfs-admin";
-  src: url("C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/fonts/wpfs-admin/wpfs-admin.ttf?3yb3ad") format("truetype"),
-    url("C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/fonts/wpfs-admin/wpfs-admin.woff?3yb3ad") format("woff"),
-    url("C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/fonts/wpfs-admin/wpfs-admin.svg?3yb3ad#wpfs-admin") format("svg");
+  src: url("https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/fonts/wpfs-admin/wpfs-admin.ttf?3yb3ad") format("truetype"),
+    url("https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/fonts/wpfs-admin/wpfs-admin.woff?3yb3ad") format("woff"),
+    url("https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/fonts/wpfs-admin/wpfs-admin.svg?3yb3ad#wpfs-admin") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -166,160 +166,160 @@
 }
 
 .wpfs-illu-subscription {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/subscription.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/subscription.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-subscription--mono {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/subscription-mono.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/subscription-mono.svg);
 }
 .wpfs-illu-donation {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/donation.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/donation.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-email {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/email.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/email.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-form {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/form.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/form.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-security {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/security.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/security.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-stripe {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/stripe.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/stripe.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-flash {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/flash.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/flash.svg);
   display: inline-block;
   width: 16px;
   height: 16px;
 }
 .wpfs-illu-book-close-bookmark {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/book-close-bookmark.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/book-close-bookmark.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-credit-card {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/credit-card.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/credit-card.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-layout-inline {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/layout-inline.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/layout-inline.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-layout-checkout {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/layout-checkout.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/layout-checkout.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-layout-bullets {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/layout-bullets.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/layout-bullets.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-element-style-stripe {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/stripeStyle.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/stripeStyle.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-element-style-night {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/night.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/night.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-element-style-flat {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/flat.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/flat.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-layout-top {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/layout-top.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/layout-top.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-members {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/members.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/members.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-customer-portal {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/customer-portal.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/customer-portal.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-wp {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/wp.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/wp.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-amount {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/amount.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/amount.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-add-ons {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/add-ons.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/add-ons.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-logs {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/logs.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/logs.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-lock {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/lock.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/lock.svg);
   display: inline-block;
   width: 32px;
   height: 32px;
 }
 .wpfs-illu-mailchimp {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/mailchimp.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/mailchimp.svg);
   display: inline-block;
   width: 40px;
   height: 40px;
 }
 .wpfs-illu-rewardful {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/rewardful.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/rewardful.svg);
   display: inline-block;
   width: 40px;
   height: 40px;
 }
 .wpfs-illu-wpfp-members {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/wpfp-members.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/wpfp-members.svg);
   display: inline-block;
   width: 40px;
   height: 40px;
@@ -3654,7 +3654,7 @@ textarea.wpfs-form-control::placeholder {
   margin: 120px auto 0;
 }
 .wpfs-success-state__icon {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/success.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/success.svg);
   display: inline-block;
   width: 48px;
   height: 48px;
@@ -3710,99 +3710,99 @@ textarea.wpfs-form-control::placeholder {
   height: 50px;
 }
 .wpfs-credit-card--amex {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/amex.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/amex.svg);
 }
 .wpfs-credit-card--diners-club {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/diners-club.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/diners-club.svg);
 }
 .wpfs-credit-card--discover {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/discover.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/discover.svg);
 }
 .wpfs-credit-card--generic {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/generic.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/generic.svg);
 }
 .wpfs-credit-card--jcb {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/jcb.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/jcb.svg);
 }
 .wpfs-credit-card--mastercard {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/mastercard.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/mastercard.svg);
 }
 .wpfs-credit-card--unionpay {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/unionpay.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/unionpay.svg);
 }
 .wpfs-credit-card--visa {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/visa.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/visa.svg);
 }
 .wpfs-credit-card--google {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/google.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/google.svg);
   background-size: auto;
 }
 .wpfs-credit-card--apple {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/apple.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/apple.svg);
   background-size: auto;
 }
 .wpfs-credit-card--microsoft {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/microsoft.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/credit-cards/microsoft.svg);
   background-size: auto;
 }
 .wpfs-alipay {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/alipay.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/alipay.svg);
   background-size: auto;
 }
 .wpfs-amazonpay {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/amazon_pay.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/amazon_pay.svg);
   background-size: auto;
 }
 .wpfs-bancontact {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/bancontact.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/bancontact.svg);
   background-size: auto;
 }
 .wpfs-blik {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/blik.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/blik.svg);
   background-size: contain;
 }
 .wpfs-cashapp {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/cashapp.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/cashapp.svg);
   background-size: auto;
 }
 .wpfs-eps {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/eps.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/eps.svg);
   background-size: contain;
 }
 .wpfs-grabpay {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/grabpay.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/grabpay.svg);
   background-size: auto;
 }
 .wpfs-ideal {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/ideal.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/ideal.svg);
   background-size: contain;
 }
 .wpfs-klarna {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/klarna.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/klarna.svg);
   background-size: auto;
 }
 .wpfs-link {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/link.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/link.svg);
   background-size: auto;
 }
 .wpfs-mobilepay {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/mobilepay.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/mobilepay.svg);
   background-size: contain;
 }
 .wpfs-przelewy24 {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/przelewy24.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/przelewy24.svg);
   background-size: contain;
 }
 .wpfs-revolut_pay {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/revolut_pay.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/revolut_pay.svg);
   background-size: auto;
 }
 .wpfs-twint {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/twint.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/twint.svg);
   background-size: contain;
 }
 .wpfs-wechatpay {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/wechat_pay.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/payment-methods/wechat_pay.svg);
   background-size: contain;
 }
 
@@ -5332,13 +5332,13 @@ input[type="text"].wpfs-tags-input::placeholder {
   display: block;
 }
 .wpfs-import-subscribers-result--succeded {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/success.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/success.svg);
 }
 .wpfs-import-subscribers-result--failed {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/failed.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/failed.svg);
 }
 .wpfs-import-subscribers-result--manual {
-  background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/member-task.svg);
+  background-image: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/illu/member-task.svg);
 }
 .wpfs-import-subscribers-item {
   display: -webkit-box;

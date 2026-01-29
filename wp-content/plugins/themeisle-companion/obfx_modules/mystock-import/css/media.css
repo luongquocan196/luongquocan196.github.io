@@ -134,7 +134,7 @@
 }
 
 .obfx-image-list .media-modal-icon {
-	background-image: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-includes/images/uploader-icons.png);
+	background-image: url(https://luongquocan196.github.io/wp-includes/images/uploader-icons.png);
 	background-repeat: no-repeat;
 }
 
@@ -171,7 +171,7 @@
 	height: 32px;
 	margin: 25% auto 0;
 	opacity: 0.9;
-	background: url("C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-admin/images/wpspin_light-2x.gif") no-repeat;
+	background: url("https://luongquocan196.github.io/wp-admin/images/wpspin_light-2x.gif") no-repeat;
 	background-size: 32px 32px;
 
 	filter: alpha(opacity=70);

@@ -406,7 +406,7 @@ body[data-form-submit=regular] .container-wrap button[type=submit].wpfs-btn-prim
 
 @font-face {
   font-family: "wpfs-icons";
-  src: url("C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/fonts/wpfs-icons/wpfs-icons.ttf") format("truetype"), url("C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/fonts/wpfs-icons/wpfs-icons.woff") format("woff"), url("C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/fonts/wpfs-icons/wpfs-icons.svg#wpfs-icons") format("svg");
+  src: url("https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/fonts/wpfs-icons/wpfs-icons.ttf") format("truetype"), url("https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/fonts/wpfs-icons/wpfs-icons.woff") format("woff"), url("https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/fonts/wpfs-icons/wpfs-icons.svg#wpfs-icons") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -1653,7 +1653,7 @@ button.wpfs-btn-primary:disabled:not(:hover):not(:active):not(.has-text-color), 
   color: var(--success-color);
 }
 .wpfs-coupon--warning:before {
-  background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/icons/warning.svg);
+  background: url(https://luongquocan196.github.io/wp-content/plugins/wp-full-stripe-free/assets/images/icons/warning.svg);
   background-size: cover;
   position: absolute;
   top: 4px;

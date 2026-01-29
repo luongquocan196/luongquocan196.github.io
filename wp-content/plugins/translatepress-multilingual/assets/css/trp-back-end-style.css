@@ -623,7 +623,7 @@ tr.trp-language{
 }
 
 .trp-sortable-handle{
-    background: url(C:\Users\lqant\OneDrive\Máy tính\strixhaven_blog\luongquocan196.github.io/wp-content/plugins/translatepress-multilingual/assets/images/sorting-icon-dots.png) no-repeat center center; /* Added for backwards compatibility with pre-redesign TP Pro versions */
+    background: url(https://luongquocan196.github.io/wp-content/plugins/translatepress-multilingual/assets/images/sorting-icon-dots.png) no-repeat center center; /* Added for backwards compatibility with pre-redesign TP Pro versions */
     width: 16px;
     height: 16px;
     display: inline-block;
